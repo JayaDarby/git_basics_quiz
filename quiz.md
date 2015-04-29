@@ -2,20 +2,20 @@
 
 ###What is your name?
 
-Your answer goes here
+Jaya
 
 ###What is your favorite color?
 
-Your answer goes here
+Red?
 
 ###Cats or Dogs?
 
-Your answer goes here
+Both
 
 ###What would constitute a “perfect” day for you?
 
-Your answer goes here
+sunshine, waterslides, cuddling, food
 
 ###Given the choice of anyone in the world, whom would you want as a dinner guest?
 
-Your answer goes here
+Your Mom, jk
